@@ -1,0 +1,13 @@
+{
+  "name": "banquet-app-tests",
+  "version": "1.0.0",
+  "description": "Comprehensive tests for Banquet App microservices",
+  "main": "service-tests.js",
+  "scripts": {
+    "test": "node service-tests.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "form-data": "^4.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "vendor-service",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {"start": "node src/index.js"},
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.37.1",
+    "pg": "^8.11.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "dotenv": "^16.0.0",
+    "winston": "^3.8.2"
+  }
+}
